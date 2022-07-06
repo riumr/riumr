@@ -1,6 +1,5 @@
-![whale](README.assets/whale.jpeg)
-
 ### Hi there 👋
+![whale](README.assets/whale.jpeg)
 
 - 🔭 I’m currently working on Study!
 - 🌱 I’m currently learning Fullstack Development
