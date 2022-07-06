@@ -1,4 +1,4 @@
-![whale](README.assets/whale.jpeg)
+<p align="center">![whale](README.assets/whale.jpeg)</p>
 
 ### Hi there 👋
 
