@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/108637691/177495812-1db0ff80-db61-43a1-b506-4374efd29c35.jpeg", alt="Whale">
 ### Hi there 👋
 
 - 🔭 I’m currently working on Study!
