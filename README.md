@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Study!
-- 🌱 I’m currently learning Fullstack programming
+- 🌱 I’m currently learning Fullstack Development
 - 👯 I’m looking to collaborate on Frontend
 - 🤔 I’m looking for help with Job
 - 💬 Ask me about WhatyouWantToKnow
