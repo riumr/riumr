@@ -1,4 +1,4 @@
-# Hi there 👋
+<center># Hi there 👋</center>
 ![whale](README.assets/whale.jpeg)
 
 - 🔭 I’m currently working on `Study`!
