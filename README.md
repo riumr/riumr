@@ -1,4 +1,4 @@
-<center># Hi there 👋</center>
+<div align=center># Hi there 👋</div>
 ![whale](README.assets/whale.jpeg)
 
 - 🔭 I’m currently working on `Study`!
