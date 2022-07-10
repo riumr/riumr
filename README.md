@@ -9,4 +9,3 @@
 - 📫 How to reach me: atrium_grate.0j@icloud.com
 - 😄 Pronouns: `Delicious`
 - ⚡ Fun fact: `There is many Excellent developer`
-- [my TIL](https://github.com/riumr/TIL)
